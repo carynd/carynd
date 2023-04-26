@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **30caryn@gmail.com**
 
-- 📄 Know about my experiences [https://carynd-portfolio.netlify.app/images/fw11_206_Caryn_Dsouza.pdf](https://carynd-portfolio.netlify.app/images/fw11_206_Caryn_Dsouza.pdf)
+- 📄 Know about my experiences [https://main--caryn-resume.netlify.app/Resume.jpg](https://main--caryn-resume.netlify.app/Resume.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
