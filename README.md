@@ -1,26 +1,75 @@
 <h1 align="center">Hi 👋, I'm Caryn Dsouza</h1>
-<h3 align="center">A full stack web developer</h3>
+<h3 align="center">Software Engineer | MSCS @ Northeastern University | Building Scalable, Intelligent & Impactful Systems</h3>
 
-- 🌱 I’m currently learning **Spring,Mysql**
+---
 
-- 👨‍💻 All of my projects are available at [https://carynd-portfolio.netlify.app/](https://carynd-portfolio.netlify.app/)
+- 🎓 I’m currently pursuing my **Master’s in Computer Science at Northeastern University (Khoury College)**,  
+  specializing in **Software Engineering, Systems Design, and Cloud Infrastructure**.
 
-- 📝 I write articles on [https://medium.com/@30caryn](https://medium.com/@30caryn)
+- 💻 With 2+ years of experience across **Backend & Full-Stack Development**, I’ve built scalable, production-grade systems in **Java, Spring Boot, .NET, and AWS**.
 
-- 📫 How to reach me **30caryn@gmail.com**
+- 🛰 Previously at **Newspace Research & Technologies**, I re-engineered defence-grade simulation systems into modern WebGL + .NET services, improving scalability by 40%.  
+  At **Outleap Technologies**, I designed **Stripe-integrated fintech systems** handling hundreds of secure transactions daily.
 
-- 📄 Know about my experiences [https://main--caryn-resume.netlify.app/Resume.jpg](https://main--caryn-resume.netlify.app/Resume.jpg)
+- 🚀 I’m currently building **SkillSync**, an AI-driven career intelligence platform powered by  
+  *Spring Boot · PostgreSQL · FastAPI · Docker · AWS · Gemini API* — designed for reliability and scale.
 
-<h3 align="left">Connect with me:</h3>
+- 🧠 I love working on projects that combine **clean system design**, **intelligent automation**, and **scalable cloud architecture**.
+
+- 👨‍💻 Check out my portfolio: [carynd-portfolio.netlify.app](https://carynd-portfolio.netlify.app)
+
+- 📝 I write about systems, learning, and growth: [medium.com/@30caryn](https://medium.com/@30caryn)
+
+- 📫 Reach me at **dsouza.caryn3@gmail.com**
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/caryn-dsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caryn-dsouza" height="30" width="40" /></a>
 <a href="https://medium.com/@30caryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@30caryn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/caryn_d_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="caryn_d_30" height="30" width="40" /></a>
+<a href="https://leetcode.com/caryn_d_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="caryn_d_30" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carynd&show_icons=true&locale=en&layout=compact" alt="carynd" /></p>
+<h3 align="left">🧰 Languages & Tools:</h3>
+<p align="left">
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carynd&" alt="carynd" /></p>
+---
+
+<h3 align="center">📌 Featured Projects</h3>
+
+| Project | Description | Stack |
+|----------|--------------|--------|
+| [SkillSync](https://github.com/your-repo) | AI-powered career intelligence platform that maps skills to real-world job data. | Spring Boot · FastAPI · PostgreSQL · AWS · Docker |
+| [DroneOps Web Console](https://github.com/your-repo) | Web-based control and telemetry system for autonomous drones (built at Newspace). | .NET · WebGL · Docker · C# |
+| [SecurePay Service](https://github.com/your-repo) | Stripe-powered payment infrastructure handling high-volume student transactions. | Java · Spring Boot · Stripe APIs · AWS |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carynd&show_icons=true&locale=en&layout=compact" alt="carynd" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carynd" alt="carynd" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Engineering systems that scale reliably, think intelligently, and make an impact.”</i>
+</p>
