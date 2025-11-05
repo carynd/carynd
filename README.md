@@ -54,9 +54,9 @@
 
 | Project | Description | Stack |
 |----------|--------------|--------|
-| [SkillSync](https://github.com/your-repo) | AI-powered career intelligence platform that maps skills to real-world job data. | Spring Boot · FastAPI · PostgreSQL · AWS · Docker |
-| [DroneOps Web Console](https://github.com/your-repo) | Web-based control and telemetry system for autonomous drones (built at Newspace). | .NET · WebGL · Docker · C# |
-| [SecurePay Service](https://github.com/your-repo) | Stripe-powered payment infrastructure handling high-volume student transactions. | Java · Spring Boot · Stripe APIs · AWS |
+| [SkillSync](https://github.com/carynd/SkillSync) | 🚀 AI-powered career intelligence platform that maps user skills to real-world job data using Gemini API. Built for scalability and analytics. | Spring Boot · PostgreSQL · FastAPI · Docker · AWS |
+| [Kambaz](https://github.com/carynd/kambaz-next-js) | 💼 Next.js web app to manage and showcase projects efficiently with responsive UI and modular component design. | Next.js · React · TypeScript · Node.js |
+| Calendar Application *(Private Academic Project)* | 🗓️ Java-based calendar system built using MVC and Observer patterns to manage events, reminders, and conflict detection. Available upon request for review. | Java · OOP · Design Patterns |
 
 ---
 
