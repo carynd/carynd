@@ -3,7 +3,7 @@
 
 ---
 
-- 🎓 I’m currently pursuing my **Master’s in Computer Science at Northeastern University (Khoury College)**,  
+- 🎓 I’m currently pursuing my **Master’s in Computer Science at Northeastern University (Khoury College of Computer Sciences)**,  
   specializing in **Software Engineering, Systems Design, and Cloud Infrastructure**.
 
 - 💻 With 2+ years of experience across **Backend & Full-Stack Development**, I’ve built scalable, production-grade systems in **Java, Spring Boot, .NET, and AWS**.
@@ -16,7 +16,7 @@
 
 - 🧠 I love working on projects that combine **clean system design**, **intelligent automation**, and **scalable cloud architecture**.
 
-- 👨‍💻 Check out my portfolio: [carynd-portfolio.netlify.app](https://carynd-portfolio.netlify.app)
+<!-- - 👨‍💻 Check out my portfolio: [carynd-portfolio.netlify.app](https://carynd-portfolio.netlify.app) -->
 
 - 📝 I write about systems, learning, and growth: [medium.com/@30caryn](https://medium.com/@30caryn)
 
