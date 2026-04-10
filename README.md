@@ -8,14 +8,13 @@ MS Computer Science @ Northeastern · ECE Background · Robotics & XR · HRI · 
 
 ### 🧭 About Me
 
-I'm a software engineer with a background in **Electronics and Communication Engineering** and a Master's in Computer Science at **Khoury College, Northeastern University**.
+I'm a software engineer with a background in **Electronics and Communication Engineering** and a **Master's in Computer Science** at **Khoury College, Northeastern University**.
 
 I'm drawn to problems that sit at the intersection of **hardware, software, and human interaction** — where the design of a system affects not just performance, but how people experience and trust it.
 
-My work and interests span:
-- 🤖 **Robotics & HRI** — proactive human-robot handover, intent signaling, physical interaction design
-- 🥽 **XR & Spatial Systems** — VR interfaces, real-time 3D visualization, spatial computing
-- ⚙️ **Backend & Systems Engineering** — distributed systems, real-time pipelines, API design, cloud infrastructure
+* 🤖 Robotics & HRI — proactive human-robot handover, intent signaling, physical interaction design
+* 🥽 XR & Spatial Systems — VR interfaces, real-time 3D visualization, spatial computing
+* ⚙️ Backend & Systems Engineering — distributed systems, real-time pipelines, API design, cloud infrastructure
 
 ---
 
